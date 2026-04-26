@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExplytSpringPropertyFolderState">
+    <option name="folders">
+      <list>
+        <option value="$PROJECT_DIR$/billing-service/billing-service/target/generated-sources/protobuf/grpc-java" />
+      </list>
+    </option>
+  </component>
+</project>
